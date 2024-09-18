@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 주도적으로 문제를 해결하고, 스몰 토크를 좋아합는 2년차 백엔드 개발자입니다👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghunbaek&show_icons=true&theme=tokyonight)
 <!--
 **jonghunbaek/jonghunbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
