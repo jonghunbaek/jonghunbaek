@@ -1,4 +1,6 @@
-## 주도적으로 문제를 해결하고, 스몰 토크를 좋아합는 2년차 백엔드 개발자입니다👋
+## 스몰 토크를 좋아합는 2년차 백엔드 개발자입니다👋
+### ⚒ Skill
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghunbaek&show_icons=true&theme=tokyonight)
 <!--
 **jonghunbaek/jonghunbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
